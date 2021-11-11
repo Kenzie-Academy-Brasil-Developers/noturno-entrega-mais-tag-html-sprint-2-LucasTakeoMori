@@ -1,0 +1,92 @@
+html {
+   
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body
+{
+    margin: 0px;
+    font-size: 15px;
+    color: whitesmoke;
+    background-image: url("Imagens/pic.jfif");
+}
+
+main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container{
+    margin-top: 50px;
+    width: 1000px;
+    margin-left: 350px;
+    font-size: 20px;
+}
+
+.list{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.skill{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto;
+     
+}
+
+.hobbi-text{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sobre-mim{
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+    
+}
+.sobre1{
+   margin: 3px;
+   color: whitesmoke;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.baixo-da-borda{
+    width: 700px;
+    margin-left: 350px;
+    font-size: 24px;
+}
+
+
+.link{
+    color: rgb(8, 245, 233)
+}
+
+.instagram{
+    color: rgb(8, 245, 233);
+    margin-left: 2px;
+}
+
+.Port{
+    width: 700px;
+    margin-left: 350px;
+    font-size: 15px
+}
+
+.takeo{
+    margin-top: 50px;
+    margin-left: 570px;
+}
+
+.info{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1px;
+}
+
+ul{
+    margin-left: -20px;
+}
